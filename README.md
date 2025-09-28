@@ -16,9 +16,9 @@
 
 
 1. リポジトリをクローン
-   - bash
-   - >>> git clone https://github.com/mitaka0927/Scraping.git
-   - >>> cd Scraping
+   bash
+   >>> git clone https://github.com/mitaka0927/Scraping.git
+   >>> cd Scraping
 
 
 2. 必要なライブラリのインストール 
