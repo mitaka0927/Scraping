@@ -7,7 +7,7 @@
 ## 内容
 
 
-- ECサイト(https://books.toscrape.com)の書籍データ（カテゴリ、タイトル、価格）を取得
+- ECサイト(https://books.toscrape.com) の書籍データ（カテゴリ、タイトル、価格）を取得
 - データを整形してCSVに保存
 - pandasでカテゴリごとの平均・中央値を集計
 - matplotlibで可視化（棒グラフ作成)
